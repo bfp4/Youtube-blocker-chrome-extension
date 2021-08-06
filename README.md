@@ -4,4 +4,4 @@ This chrome extension so that you can stop wasting time browsing youtube and sta
 <br/>
 Link: 
 <br/>
-&nbsp;&nbsp;&nbsp;https://chrome.google.com/webstore/detail/youtube-browse-blocker/fdijgodcmpglkoceocpboadcfbgecgpe?hl=en
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://chrome.google.com/webstore/detail/youtube-browse-blocker/fdijgodcmpglkoceocpboadcfbgecgpe?hl=en
